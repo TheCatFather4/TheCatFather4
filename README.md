@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Joe!
+I'm a full-stack developer who enjoys building clean, modular software applications.
+
+![Static Badge](https://img.shields.io/badge/languages:_-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/csharp-8A2BE2?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/sql-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge)
+
 
 <!--
 **TheCatFather4/TheCatFather4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
