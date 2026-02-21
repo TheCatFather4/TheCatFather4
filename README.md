@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Joe!
-I'm a full-stack developer who enjoys building clean, modular software applications.<br>
+I'm a software developer who enjoys building clean, modular software applications.<br>
 Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 
 ![Static Badge](https://img.shields.io/badge/languages:_-gray?style=for-the-badge)
@@ -16,6 +16,8 @@ Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 ![Static Badge](https://img.shields.io/badge/oop-0000FF?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/separation_of_concerns-008000?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/restful_apis-FF4500?style=for-the-badge)
+
+🌱 I’m currently learning React and looking forward to building new things!
 
 <!--
 **TheCatFather4/TheCatFather4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
