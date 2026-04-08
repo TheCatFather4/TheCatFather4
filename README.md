@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Joe!
-I'm a software developer who enjoys building clean, modular software applications.<br>
+I enjoy building clean, modular software applications.<br>
 Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 
 ![Static Badge](https://img.shields.io/badge/languages:_-gray?style=for-the-badge)
