@@ -18,6 +18,14 @@ Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 ![Static Badge](https://img.shields.io/badge/restful_apis-FF4500?style=for-the-badge)
 
 🌱 I’m currently learning React and looking forward to building new things!
+##
+## In the meantime, feel free to check out some things I have built:
+### ✈️ Airport Locker Rental 🔒
+### 🖥️ [Web Demo](https://www.jmarcello.dev/Airport)   👨‍💻 [Repository](https://www.github.com/TheCatFather4/AirportLockerRental)
+##
+### 🛳️ Battleship 🎯
+### 🖥️ [Web Demo](https://www.jmarcello.dev/Battleship)  👨‍💻 [Repository](https://www.github.com/TheCatFather4/Battleship)
+##
 
 <!--
 **TheCatFather4/TheCatFather4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
