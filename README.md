@@ -20,10 +20,10 @@ Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 🌱 I’m currently learning React and looking forward to building new things!
 ##
 ## In the meantime, feel free to check out some things I have built:
-### ✈️ Airport Locker Rental 🔒
+### ✈️ Airport Locker Rental 🔒 (Console Application)
 ### 🖥️ [Web Demo](https://www.jmarcello.dev/Airport)   👨‍💻 [Repository](https://www.github.com/TheCatFather4/AirportLockerRental)
 ##
-### 🛳️ Battleship 🎯
+### 🛳️ Battleship 🎯 (Console Application)
 ### 🖥️ [Web Demo](https://www.jmarcello.dev/Battleship)  👨‍💻 [Repository](https://www.github.com/TheCatFather4/Battleship)
 ##
 
