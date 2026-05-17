@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joe!
-I enjoy building clean, modular software applications.<br>
-Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
+I enjoy building clean, modular software applications that are well documented and unit tested.<br>
+Check out my work in action at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 
 ![Static Badge](https://img.shields.io/badge/languages:_-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/csharp-8A2BE2?style=for-the-badge)
@@ -15,19 +15,14 @@ Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 ![Static Badge](https://img.shields.io/badge/philosophies:_-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/oop-0000FF?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/separation_of_concerns-008000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/restful_apis-FF4500?style=for-the-badge)
-
-🌱 I’m currently learning React and looking forward to building new things!
+![Static Badge](https://img.shields.io/badge/restful_apis-FF4500?style=for-the-badge)<br>
 ##
-## In the meantime, feel free to check out some things I have built:
-### ✈️ Airport Locker Rental (Console Application) 🔒 
-### 🖥️ [Web Demo](https://www.jmarcello.dev/Airport)   👨‍💻 [Repository](https://www.github.com/TheCatFather4/AirportLockerRental)
-##
-### 🛳️ Battleship (Console Application) 🎯 
-### 🖥️ [Web Demo](https://www.jmarcello.dev/Battleship)  👨‍💻 [Repository](https://www.github.com/TheCatFather4/Battleship)
-##
-### ☕4th Wall Café (Full-Stack) 🥯
-### 💻[Website](https://www.jmarcello.dev/Cafe) 📖[ReadMe](https://github.com/TheCatFather4/Portfolio#coffee-the-4th-wall-caf%C3%A9-bagel)
+🔭 I’m currently working on a full-stack website: [The 4th Wall Academy](https://www.jmarcello.dev/Academy)<br>
+🌱 I’m also currently learning React and looking forward to building new things!
+## In the meantime, feel free to check out some apps I have built:
+### ✈️ Airport Locker Rental (Console) 🔒 => 🖥️ [Web Demo](https://www.jmarcello.dev/Airport)   👨‍💻 [Repository](https://www.github.com/TheCatFather4/AirportLockerRental)
+### 🛳️ Battleship (Console) 🎯 => 🖥️ [Web Demo](https://www.jmarcello.dev/Battleship)  👨‍💻 [Repository](https://www.github.com/TheCatFather4/Battleship)
+### ☕4th Wall Café (Full-Stack) 🥯 => 💻[Website](https://www.jmarcello.dev/Cafe) 📖[ReadMe](https://github.com/TheCatFather4/Portfolio#coffee-the-4th-wall-caf%C3%A9-bagel)
 
 <!--
 **TheCatFather4/TheCatFather4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
