@@ -20,12 +20,14 @@ Check out my work at: [www.jmarcello.dev](https://www.jmarcello.dev)<br>
 🌱 I’m currently learning React and looking forward to building new things!
 ##
 ## In the meantime, feel free to check out some things I have built:
-### ✈️ Airport Locker Rental 🔒 (Console Application)
+### ✈️ Airport Locker Rental (Console Application) 🔒 
 ### 🖥️ [Web Demo](https://www.jmarcello.dev/Airport)   👨‍💻 [Repository](https://www.github.com/TheCatFather4/AirportLockerRental)
 ##
-### 🛳️ Battleship 🎯 (Console Application)
+### 🛳️ Battleship (Console Application) 🎯 
 ### 🖥️ [Web Demo](https://www.jmarcello.dev/Battleship)  👨‍💻 [Repository](https://www.github.com/TheCatFather4/Battleship)
 ##
+### ☕4th Wall Café (Full-Stack) 🥯
+### 💻[Website](https://www.jmarcello.dev/Cafe) 📖[ReadMe](https://github.com/TheCatFather4/Portfolio#coffee-the-4th-wall-caf%C3%A9-bagel)
 
 <!--
 **TheCatFather4/TheCatFather4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
